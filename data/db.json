@@ -1,0 +1,18 @@
+{
+  "links": [
+    {
+      "code": "apple23",
+      "target": "https://example/apple",
+      "createdAt": "2025-11-19T15:02:16.256Z",
+      "clicks": 2,
+      "lastClickedAt": "2025-11-19T15:04:11.865Z"
+    },
+    {
+      "code": "ant122",
+      "target": "https://ano/ant",
+      "createdAt": "2025-11-19T15:03:56.757Z",
+      "clicks": 0,
+      "lastClickedAt": null
+    }
+  ]
+}
